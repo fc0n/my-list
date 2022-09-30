@@ -1,0 +1,15 @@
+.primary-color .tertiary-background-color{
+    color: #AF7EEB;
+} 
+
+.secondary-color .primary-text-color{
+    color : #939CBD;
+}
+
+.tertiary-color .secondary-background-color .secondary-text-color{
+    color: #FFFFFF;
+}
+
+.danger-color{
+    color: #FF002E;
+}
